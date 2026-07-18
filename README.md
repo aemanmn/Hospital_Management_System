@@ -35,8 +35,8 @@ Follow these instructions to set up the project locally.
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/Medixone-Hospital_Management_System.git
-   cd Medixone-Hospital_Management_System
+   git clone https://github.com/your-username/Hospital_Management_System.git
+   cd Hospital_Management_System
    ```
 
 ## Install dependencies
@@ -86,22 +86,6 @@ Follow these instructions to set up the project locally.
 
 Hospital Management, MERN Stack, MongoDB, Express.js, React, Node.js, Healthcare App, Patient Records, Appointments.
 
-# Contributors
 
-Niraj Kumar [Github](https://github.com/meniraj07)
 
-# Deployment Links
 
-[Medixone Backend](https://Medixonebackend-4ylq.onrender.com)
-
-[Medixone Patient Panel](https://Medixone-hospital-management-system.vercel.app/)
-
-[Medixone Admin/Doctor Panel](https://Medixone-hospital-management-system-c29o.vercel.app/)
-
-# Contact
-
-For any questions or feedback, please contact [Niraj Kumar](https://www.linkedin.com/in/nirajkumar-nk/)
-
-# License
-
-This project is licensed under the MIT License.
